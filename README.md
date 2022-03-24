@@ -22,7 +22,7 @@
 
 ### 运行环境
 
-- [.NET 6.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)（Desktop Runtime）
+- [.NET 6.0](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)**（Desktop Runtime >=6.0.3）**
 - Windows 8 及更高版本
 - 一个清醒的脑子
 - 一个好的学习成绩
