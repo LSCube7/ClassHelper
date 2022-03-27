@@ -48,9 +48,9 @@
 - [ ] 添加更多用户设置选项
 
 - [ ] 支持快捷键
-- [ ] 支持模糊查询窗口
+- [x] 支持模糊查询窗口
 - [ ] 支持托盘
-- [ ] 用WinUI 3.0代替Win Form重写GUI
+- [ ] 用Unity代替Win Form重写GUI
 - [ ] 支持更多软件的帮助支持
 
 - [ ] 画一个自己的LOGO
@@ -73,7 +73,7 @@
 
 - 分别编译dll文件夹内的3个文件夹中的内容
 - 编译main文件夹内的WinForm程序
-- 将minimize.dll、checkVer.dll、recover.dll、main.dll和main.exe
+- 将minimize.dll、checkVer.dll、recover.dll、main.dll、main.deps.json和main.runtimeconfig.json放于同一文件夹内并运行main.exe
 
 
 
